@@ -1,5 +1,5 @@
 '''
-Script to demonstrate how to read files locally
+Script to demonstrate how to read files locally in Python3
 '''
 
 # Create a file handler (fh) and read in a certain file
