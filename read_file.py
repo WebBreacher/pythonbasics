@@ -18,3 +18,4 @@ for line in fh.readlines():
     
     # Increment the counter variable by 1
     counter += 1
+fh.close()
